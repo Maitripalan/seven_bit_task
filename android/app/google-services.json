@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "688780374852",
+    "project_id": "sevenbitstask",
+    "storage_bucket": "sevenbitstask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688780374852:android:338d97de0103064d86dd11",
+        "android_client_info": {
+          "package_name": "com.example.seven_bits_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688780374852-51n8o5ptl0ff3d2i19keunj92b9jf0qi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.seven_bits_task",
+            "certificate_hash": "a2c0406ae5ee44bee36b2ddc98a4f7592e24440d"
+          }
+        },
+        {
+          "client_id": "688780374852-bgm9eta1a8f3l44nt28hh4ej4vchtk7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM9KVbC7L1rzJAuCJzbBe6dqZlth1Ebg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688780374852-bgm9eta1a8f3l44nt28hh4ej4vchtk7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
